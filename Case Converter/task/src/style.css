@@ -1,0 +1,40 @@
+.title {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.btn-style {
+    background: pink;
+    border-radius: 3px;
+    border: none;
+    font-size: 16px;
+
+}
+.container {
+    display: flex;
+    margin-top: 10px;
+
+}
+button:hover {
+    background-color: firebrick;
+    color: white;
+}
+
+#upper-case {
+    padding: 4px;
+    margin-right: 4px;
+}
+
+#lower-case {
+    padding: 4px;
+    margin: 0 4px;
+}
+
+#proper-case {
+    padding: 4px;
+    margin: 0 4px;
+}
+
+#sentence-case {
+    padding: 4px;
+    margin: 0 4px;
+}
